@@ -52,6 +52,6 @@ Note: Please ensure that any code contributions adhere to our code style guideli
 
 # Further Reading <a name="further"></a>
 
-This project is inspired by [Khan Academy](https://www.khanacademy.org/), the greatly inspired me to make education free for everyone, everywhere. That's why I made this website. I also made it open source so that awesome people like you can check out the code, address issues and help me make the site better. 
+This project is inspired by [Khan Academy](https://www.khanacademy.org/), they greatly inspired me to make education free for everyone, everywhere. That's why I made this website. I also made it open source so that awesome people like you can check out the code, address issues and help me make the site better. 
 
 ### Thanks for reading
