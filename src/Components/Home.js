@@ -197,14 +197,14 @@ function Home() {
               </div>
             </div>
             <center>
-              {" "}
-              <p className="text-xl text-gray-600">
-                To enroll now, please&nbsp;
-                <Link to="/login" className="text-indigo-500 font-medium">
-                  Log In
-                </Link>
-                .
-              </p>
+              
+              <div class="p-2 flex justify-center">
+                <div class="w-full md:w-auto">
+                  <Link to='/login' class="text-center flex items-center justify-center rounded text-white bg-indigo-500 border-0 py-2 px-10 focus:outline-none hover:bg-indigo-600 text-lg md:text-base">
+                    Enroll Now
+                  </Link>
+                </div>
+              </div>
             </center>
           </div>
         </>
